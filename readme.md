@@ -12,7 +12,7 @@ ___
 ## ❗️❗️❗️ DON'T FORGET TO PROOFREAD YOUR CODE WITH [CHECKLIST](https://github.com/mate-academy/layout_product-cards/blob/master/checklist.md) BEFORE SENDING YOUR PULL REQUEST❗️❗️❗️
 
 ## The task
-Create a pages with product card using `flexbox` basing on [the mockup](https://www.figma.com/file/euXjY316CHKYkPRO1K0kjLsF/Moyo-Catalog?node-id=11325%3A2288).
+Create a pages with product card using `flexbox` basing on [the mockup](https://www.figma.com/file/ojkArVazq7vsX0nbpn9CxZ/Moyo-%2F-Catalog-(ENG)?node-id=32249%3A354).
 
 ### Requirements:
 - reset browser's default margins
@@ -30,7 +30,7 @@ Create a pages with product card using `flexbox` basing on [the mockup](https://
 - Reuse `stars` block from [Stars task](https://github.com/mate-academy/layout_stars)
 and keep it operational. If you change `stars--4` modifier to `stars--2` or
 other - number of selected stars should change correctly.
-- Item with text 'Купить' should be a link.
+- Item with the 'Buy' text  should be a link.
 - Check font styles on the mockup. Use [google fonts](https://fonts.google.com/)
 
 ---
