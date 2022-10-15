@@ -1,3 +1,17 @@
+html {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14px;
+
+  --accent-color-blue: #00acdc;
+  --text-primary-color: #060b35;
+  --text-secondary-color: #616070;
+
+  color: var(--text-secondary-color);
+}
+
 body {
   margin: 0;
   box-sizing: border-box;
